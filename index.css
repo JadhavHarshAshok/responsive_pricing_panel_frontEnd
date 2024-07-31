@@ -172,3 +172,9 @@ color: white;
 
 }
 
+@media (max-width: 1920px) and (min-width: 1024px){
+    body{
+        zoom: 75%;
+    }
+}
+
