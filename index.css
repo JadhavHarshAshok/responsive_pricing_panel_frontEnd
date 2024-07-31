@@ -159,6 +159,7 @@ color: white;
         flex-direction: row;
         border-radius: 0px;
         padding: 25px 50px;
+        zoom: 75%;
     }
 
     .container{
@@ -172,14 +173,4 @@ color: white;
 
 }
 
-@media (max-width: 1920px) and (min-width: 1024px){
-    body{
-        zoom: 75%;
-    }
-}
 
-@media (min-width: 1920px){
-    body{
-        zoom: 100%;
-    }
-}
